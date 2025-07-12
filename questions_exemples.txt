@@ -1,2 +1,0 @@
-Quels sont les avantages de la méthode HyDE dans les techniques avancées de RAG ? (RAG Techniques doc)
-Quel est l'intérêt d'un découpage en blocs de 512 tokens avec chevauchement ? (RAG Systems)
